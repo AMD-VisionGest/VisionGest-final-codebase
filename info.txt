@@ -1,0 +1,1 @@
+Although significant progress has been made in developing Project VisionGest, the project is not yet fully complete. I am continuing to refine and enhance the software to ensure it meets our goals effectively. The final code will be released in the VisionGest-final-codebase repository upon completion. Thank you for your patience and understanding.
